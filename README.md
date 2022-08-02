@@ -8,4 +8,4 @@ Hello! I'm Kristin Song and I'm an incoming freshman at UC Berkeley. I love sket
 
 <img src="./prom.jpg" style="width:20%; margin:auto; display:block">
 
-![alt-text-1](1.PNG "title-1") ![alt-text-2](2.PNG "title-2") ![alt-text-2](3.PNG "title-2")
+![alt-text-1](1.PNG) ![alt-text-2](2.PNG) ![alt-text-2](3.PNG)
