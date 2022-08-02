@@ -1,2 +1,2 @@
 # Kristin Song
-Snapseed.jpg
+<img src="./Snapseed.JPG" style="width:50%; margin:auto; display:block">
